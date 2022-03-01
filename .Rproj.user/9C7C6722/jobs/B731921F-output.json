@@ -1,6 +1,0 @@
-[1,"=> shiny::runApp()\n\n"]
-[2,"Loading required package: shiny\r\n"]
-[2,"\r\nAttaching package: 'shinydashboard'\r\n\r\nThe following object is masked from 'package:graphics':\r\n\r\n    box\r\n\r\n"]
-[2,"\r\nListening on http://127.0.0.1:7195\r\n"]
-[2,"Warning: Error in : Can't access reactive value 'csv_input' outside of reactive consumer.\r\n\u001B[34mi\u001B[39m Do you need to wrap inside reactive() or observer()?\r\n  65: \u001B[37m<Anonymous>\u001B[39m\r\nError : Can't access reactive value 'csv_input' outside of reactive consumer.\r\n\u001B[34mi\u001B[39m Do you need to wrap inside reactive() or observer()?\r\n"]
-[1,"\nShiny application successfully stopped.\n\n"]
