@@ -1,0 +1,4 @@
+[1,"=> library(shiny); runApp('anova_app.R')\n\n"]
+[2,"\r\nListening on http://127.0.0.1:7862\r\n"]
+[2,"Warning: Error in read.table: 'file' must be a character string or connection\r\n  99: \u001B[37mstop\u001B[39m\r\n  98: \u001B[37mread.table\u001B[39m\r\n  97: \u001B[37mread.csv\u001B[39m\r\n  96: \u001B[34m\u001B[1mrenderTable [C:/Users/USER/Downloads/work/Updated ANOVA app/anova_app.R#66]\u001B[22m\u001B[39m\r\n  95: \u001B[37mfunc\u001B[39m\r\n  82: \u001B[37mrenderFunc\u001B[39m\r\n  81: \u001B[37moutput$data\u001B[39m\r\n   1: \u001B[37mrunApp\u001B[39m\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]

@@ -1,0 +1,6 @@
+[1,"=> shiny::runApp()\n\n"]
+[2,"Loading required package: shiny\r\n"]
+[2,"\r\nAttaching package: 'shinydashboard'\r\n\r\nThe following object is masked from 'package:graphics':\r\n\r\n    box\r\n\r\n"]
+[2,"\r\nListening on http://127.0.0.1:4950\r\n"]
+[2,"Warning: Error in read.table: 'file' must be a character string or connection\r\n  100: \u001B[37mstop\u001B[39m\r\n   99: \u001B[37mread.table\u001B[39m\r\n   98: \u001B[37mread.csv\u001B[39m\r\n   97: \u001B[34m\u001B[1mdata [C:\\Users\\USER\\Downloads\\work\\Updated ANOVA app/app.R#129]\u001B[22m\u001B[39m\r\n   96: \u001B[37mrenderTable\u001B[39m\r\n   95: \u001B[37mfunc\u001B[39m\r\n   82: \u001B[37mrenderFunc\u001B[39m\r\n   81: \u001B[37moutput$one_data\u001B[39m\r\n    1: \u001B[37mshiny::runApp\u001B[39m\r\n"]
+[1,"\nShiny application successfully stopped.\n\n"]
